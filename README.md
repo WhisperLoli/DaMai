@@ -4,11 +4,11 @@
 
 selenium
 
-  浏览器：谷歌
-  chromedriver下载地址：![http://chromedriver.storage.googleapis.com/index.html](http://chromedriver.storage.googleapis.com/index.html)  
-  操作系统：Mac OS
-  解压后执行命令，perl -pi -e 's/cdc_/dog_/g' /Applications/chromedriver，/Applications/chromedriver为解压后的位置
-  并未在Windows上测试，可能Windows需要自己安装perl
+	浏览器：谷歌
+	chromedriver下载地址：![http://chromedriver.storage.googleapis.com/index.html](http://chromedriver.storage.googleapis.com/index.html)  
+	操作系统：Mac OS
+	解压后执行命令，perl -pi -e 's/cdc_/dog_/g' /Applications/chromedriver，/Applications/chromedriver为解压后的位置
+	上述命令并未在Windows上测试，可能Windows需要自己安装perl
 
 配置文件模版：
 
