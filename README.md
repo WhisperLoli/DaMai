@@ -30,4 +30,4 @@ selenium
 	total=2
 	star=张信哲
 	address=长沙
-        auto_upgrade=True
+    auto_upgrade=True
